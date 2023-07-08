@@ -1,4 +1,4 @@
-### Hi there 👋, Hi there 👋, my name is JOHN
+#####                                               Hi there 👋, my name is JOHN
 #### I am Front-End Developer
 
 
