@@ -1,5 +1,5 @@
 # Hi there 👋
-## my name is Arturs
+## my name is John
 #### I am Front-End Developer
 
 Skills: 
