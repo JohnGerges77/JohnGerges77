@@ -1,4 +1,6 @@
-###Hi there 👋, my name is JOHN GERGES
+########Hi there 👋
+
+my name is JOHN GERGES
 
 ##I am GitHub Readme Front-End Developer
 
